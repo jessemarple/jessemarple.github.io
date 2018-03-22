@@ -1,7 +1,7 @@
 # About Me
 Anyone that wants to learn a little bit about me should stop by here to read this first.
 
-Foremost, I'm a __problem solver__. I love working with technology and I enjoy solving challenging problems. I am a creative architect that has build solutions - personally, and in a team. I don't believe that any one tool is a silver bullet that can be applied to all situations. 
+Foremost, I'm a __problem solver__. I love working with technology and I enjoy solving challenging problems. I am a creative architect that has built solutions - personally, and in a team. I don't believe that any one tool is a silver bullet that can be applied to all situations. 
 
 I love to code. I love standing on the shoulders of so many giants that have build so many amazing structures that help me achieve dreams. I love the clarity that comes from mashing the keyboard; writing, testing, debugging, frustration, fixes, cleanup and commenting!
 
@@ -21,8 +21,6 @@ __Q__: Why is your github account so . . . sparse?
 
 __A__: Well, quite a bit of my work has been with and for other people and companies. I tend to either work on public facing websites, or internal facing applications. Neither lend themselves well to open-sourcing for a variety of reasons including copyright, security and generally not wanting to tick off people that paid me to write code for them. 
 
-I also use BitBucket for most of my git needs due in no small part to the deep integration with JIRA, Confluence and HipChat.
-
 __Q__: Which projects do you contribute to?
 
 __A__: I'm contributing code to GridType, AnyoneCanSwiss and a few others at the moment. In the past, I've contributed to WordPress, jQuery and Backbone.
@@ -33,17 +31,18 @@ __A__: JavaScript, HTML, CSS, and PHP are my primary tools but there are so many
 
 Tools I like and use:
  
-- JavaScript Frameworks: Backbone & Angular
+- JavaScript Frameworks: Vue, React, Backbone & Angular
 - Pure JavaScript. It's amazing what can be accomplished wihtout much overhead.
 - ECMA6 Promisses! YAY!
 - SCSS, but sometimes LESS.
 - Parse
-- Pre-compilers: Grunt & Gulp
+- Firebase
+- Pre-compilers: Grunt & Gulp & Webpack
 - PHP Frameworks: Laravel, Phalcon, CodeIgniter and Cake (no more cake, please).
 - JSP & JSTL
 - Swift
-- Templating: Mustache, Handlebars, & Underscore.
-- WordPress and the shiny new WordPress API (finally).
+- Templating: Mustache, Handlebars, & Lodash.
+- WordPress and the shiny WordPress API. I don't tend to do much WP development but I can.
 
 __Q__: Do you have any work I can look at?
 
